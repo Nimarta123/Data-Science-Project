@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 
-df = pd.read_csv('C:\\Users\\Venish\\Documents\\Internship CodeAlpha\\Unemployment in India.csv')
+df = pd.read_csv('C:\\Internship CodeAlpha\\Unemployment in India.csv')
 
 print(df.head())
 print("\nData Summary:\n", df.info())
